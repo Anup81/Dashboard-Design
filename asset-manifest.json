@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dashboard-Design/static/css/main.ea8e0e9e.css",
+    "main.js": "/Dashboard-Design/static/js/main.8ab8e061.js",
+    "index.html": "/Dashboard-Design/index.html",
+    "main.ea8e0e9e.css.map": "/Dashboard-Design/static/css/main.ea8e0e9e.css.map",
+    "main.8ab8e061.js.map": "/Dashboard-Design/static/js/main.8ab8e061.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea8e0e9e.css",
+    "static/js/main.8ab8e061.js"
+  ]
+}
