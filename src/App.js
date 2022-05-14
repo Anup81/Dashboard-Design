@@ -5,10 +5,15 @@ import Single from "./pages/single/Single";
 import New from "./pages/new/New";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { productInputs, userInputs } from "./formSource";
+import { DarkModeContext } from "./context/darkModeContext";
+import "./style/dark.scss";
+import { useContext } from "react";
 
 function App() {
+  const { darkMode } = useContext(DarkModeContext);
+  // const [dark, setDark] = useState(false);
   return (
-    <div className="App">
+    <div className={darkMode ? "app dark" : "app"}>
       <Router>
         <Routes>
           <Route path="/">
