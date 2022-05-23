@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dasboard-Design/static/css/main.ea8e0e9e.css",
+    "main.js": "/Dasboard-Design/static/js/main.f2005e8f.js",
+    "index.html": "/Dasboard-Design/index.html",
+    "main.ea8e0e9e.css.map": "/Dasboard-Design/static/css/main.ea8e0e9e.css.map",
+    "main.f2005e8f.js.map": "/Dasboard-Design/static/js/main.f2005e8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea8e0e9e.css",
+    "static/js/main.f2005e8f.js"
+  ]
+}
